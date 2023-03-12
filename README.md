@@ -12,6 +12,8 @@
 ![data-1-check-2](./assets/readme_assets/check_2_vis.png)
 
 ![data-2-check-1](./assets/readme_assets//data_2_check_1_vis.png)
+
+![data-2-check-1](./assets/readme_assets/data_2_check_2_vis.png)
 ---
 ## License
 [GNU GENERAL PUBLIC LICENSE](LICENSE)
